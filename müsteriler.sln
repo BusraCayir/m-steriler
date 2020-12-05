@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "müsteriler", "müsteriler\müsteriler.csproj", "{F8A1A7E1-E2B6-4F5E-AD86-6E623486997C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8A1A7E1-E2B6-4F5E-AD86-6E623486997C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A1A7E1-E2B6-4F5E-AD86-6E623486997C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A1A7E1-E2B6-4F5E-AD86-6E623486997C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A1A7E1-E2B6-4F5E-AD86-6E623486997C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC669FE1-FAC2-48D1-B706-E0C2267ECF1C}
+	EndGlobalSection
+EndGlobal
